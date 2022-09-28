@@ -1,1 +1,167 @@
 # MyProfile
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+
+  <header>
+    &nbsp;&nbsp; <i class="fa fa-user"></i>&nbsp;&nbsp;<strong>Mohit Sharma</strong>
+    &nbsp;&nbsp; <i class="fa fa-phone-square"></i>&nbsp;&nbsp;<strong>8600&nbsp;5550&nbsp;99</strong>
+    &nbsp;&nbsp; <i class="fa fa-envelope"></i>&nbsp;&nbsp;<strong>mohit.sharma@gmail.com</strong>
+
+  </header>
+  <br>
+  <!--<iframe width=900px height=540px>
+    <tr><td>EmpName</td></tr>
+  </iframe>-->
+  <h1>Registration Form</h1>
+  <hr>
+  
+  
+  <strong>
+  <form action="" height="900" height="900" border="1">
+    <table>
+      <div class="container"> 
+        <iframe class="responsive-iframe" src="https://www.youtube.com/embed/tgbNymZ7vqY"></iframe>
+      </div>
+      
+      <tbody>
+      <tr>
+        <td>
+          <label for="fname">Full Name:</label>
+          <td>
+              <input type="text" id="fname" name="fname" placeholder="Employee Name...">
+        </td></td>
+      </tr>
+      <tr>
+        <td>
+          <label for="lname">Email:</label>
+          <td>
+          <input type="text" id="lname" name="lname" placeholder="Ex.abc@gmail.com">
+        </td>
+          
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <label for="lname">Password:</label>
+          <td>
+          <input type="password"  placeholder="password">
+        </td>
+          
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <label for="lname">Contact No:</label>
+          <td>
+          <input type="text" id="lname" name="lname" placeholder="number">
+        </td>
+          
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <label for="lname">Profile Photo:</label>
+          <td>
+          <input type="file" id="myfile" name="myfile" >
+        </td>
+          
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <label for="lname">Date Of Birth:</label>
+          <td>
+          <input type="date" id="date" name="date" >
+        </td>
+          
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <label for="lname">Gender:</label>
+          <td>
+          <input type="radio">Male
+          <input type="radio">Female
+        </td>
+          
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <label for="lname">About Technical Skill:</label>
+          <td>
+          <input type="checkbox">Angular
+          <input type="checkbox">React
+          <input type="checkbox">Java
+          <input type="checkbox">Python
+        </td>
+          
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <label for="lname">Profile:</label>
+          <td>
+            <select name="cars" id="cars" placeholder="UI Developer">
+              <option value="UI Developer" aria-placeholder="UI Developer">UI Developer</option>
+              <option value="saab">Saab</option>
+              <option value="mercedes">Mercedes</option>
+              <option value="audi">Audi</option>
+            </select>
+        </td>
+          
+        </td>
+      </tr>
+      <tr><td>
+        <lable for="country">Country:</lable>
+        
+        </td>
+        <td>
+          <input type="text"placeholder="India">
+      </td></tr>
+      <tr><td>
+        <lable for="country">Parmenant Address:</lable>
+        
+        </td>
+        <td>
+          <textarea name="comment" form="userf">Enter text here...</textarea>
+      </td></tr>
+      <tr><td>
+
+      </td>
+    <td>
+      <input type="reset" value="Reset">
+      <input type="submit" value="Submit"></td></tr>
+      
+    </tbody>
+    </table>
+    <br><br>
+    
+  </form>
+
+</strong>
+</frame>
+<img src="C:\Users\sango\OneDrive\Desktop\car.png" alt=""><hr>
+<br><br>
+  <footer>
+    &nbsp;&nbsp;<strong>Follow me</strong>&nbsp;&nbsp;&nbsp;&nbsp;
+    
+    <i class="fa fa-linkedin-square" style="color:blue">&nbsp;&nbsp;&nbsp;&nbsp;
+      <i class="fa fa-google" style="color:blue"></i>&nbsp;&nbsp;&nbsp;&nbsp;
+      <i class="fa fa-instagram" style="color:blue"></i> &nbsp;&nbsp;&nbsp;&nbsp;
+      <i class="fa fa-facebook-square" style="color:blue"></i>&nbsp;&nbsp;&nbsp;&nbsp;
+      <i class="fa fa-telegram" style="color:darkorange"></i>
+    </i>
+  </footer>
+
+
+  
+</body>
+</html>
